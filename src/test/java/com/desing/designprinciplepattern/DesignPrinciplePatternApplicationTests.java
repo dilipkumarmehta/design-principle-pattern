@@ -1,4 +1,4 @@
-package com.desing.designprinciplepattern;
+/*package com.desing.designprinciplepattern;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,3 +14,4 @@ public class DesignPrinciplePatternApplicationTests {
 	}
 
 }
+*/
